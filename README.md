@@ -18,3 +18,15 @@ Models are also on HuggingFace at
 and
 [Valerio81/appy-qwen25-1b5-gguf](https://huggingface.co/Valerio81/appy-qwen25-1b5-gguf)
 for non-iOS clients.
+
+## Models
+
+| File | What | sha256 |
+|---|---|---|
+| `embeddinggemma-300M-Q8_0.gguf` | EmbeddingGemma 300M (with its dense layers), on-device query embedding. Unmodified copy of [ggml-org/embeddinggemma-300M-GGUF](https://huggingface.co/ggml-org/embeddinggemma-300M-GGUF) | `b5ce9d77a3fc4b3b39ccb5643c36777911cc4eb46a66962eadfa3f5f60490d63` |
+
+Download: `https://github.com/r8nsz2cbgd-cell/appy-models/releases/download/v1/<file>`
+
+## Licences
+
+Gemma-based files are subject to the Gemma Terms of Use; see [NOTICE](NOTICE).
