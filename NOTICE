@@ -1,0 +1,11 @@
+Gemma is provided under and subject to the Gemma Terms of Use found at ai.google.dev/gemma/terms
+
+The following files in this repository's releases are Gemma models or models derived from Gemma:
+
+- embeddinggemma-300M-Q8_0.gguf: EmbeddingGemma 300M, Q8_0 GGUF, unmodified copy of
+  https://huggingface.co/ggml-org/embeddinggemma-300M-GGUF
+  sha256 b5ce9d77a3fc4b3b39ccb5643c36777911cc4eb46a66962eadfa3f5f60490d63
+- appy-1b-v5-Q8_0.gguf: Appy 1B v5, a fine-tune of Gemma 3 1B (modified by AppyPilgrim)
+
+Use of these models is subject to the Gemma Prohibited Use Policy:
+ai.google.dev/gemma/prohibited_use_policy
